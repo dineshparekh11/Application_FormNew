@@ -1,0 +1,28 @@
+caption {
+    caption-side: top;
+    font-weight : bold;
+    align-items:center;
+    size:20px;
+  }
+  input
+  {
+    width : 90%;
+  }
+  table {
+    border-spacing : 60px;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td 
+  {
+    background-color :lightblue ;
+  }
+  
+  td :nth-of-type(even)
+  {
+    background-color : cornflowerblue;
+  }
+  th{
+    background:pink;
+  }
