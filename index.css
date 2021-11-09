@@ -1,0 +1,44 @@
+* {
+    font-family: Roboto, sans-serif;
+  }
+  
+  caption {
+    caption-side: middle;
+    margin-left: 64%;
+  }
+  h1 {
+    text-align: center;
+  }
+  div {
+    background-color: rgb(191, 235, 235);
+    padding-left: 1%;
+    padding-bottom: 1%;
+  }
+  table {
+    background-color: rgb(151, 220, 229);
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 2px 4px black;
+  }
+  td {
+    padding: 1%;
+  }
+  .question {
+    background-color: rgb(200, 155, 236);
+    text-align: center;
+  }
+  
+  input {
+    border: none;
+    width: 95%;
+  }
+  
+  body {
+    background-color: rgb(208, 149, 231);
+  }
+  
+  img {
+    margin-left: 20%;
+    height: 125px;
+    width: 125px;
+  }
